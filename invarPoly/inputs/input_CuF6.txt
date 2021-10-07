@@ -1,0 +1,13 @@
+"job": "mole_dist"
+"mole_type" : "Oh"
+"dist_mode" : "e_str"
+"dist_file" : "../inputs/dist_crds_oh_e.txt"
+"atom_number": "7"
+"atom_positions": "
+Cu  C1 OO OO       0.00000        0.00000        0.00000,
+F   C1 L1 OO       0.00000        0.00000        1.86000,
+F   C1 L2 OO       1.86000        0.00000        0.00000,
+F   C1 L3 OO       0.00000        1.86000        0.00000,
+F   C1 L4 OO       0.00000        0.00000       -1.86000,
+F   C1 L5 OO      -1.86000        0.00000        0.00000,
+F   C1 L6 OO       0.00000       -1.86000        0.00000"

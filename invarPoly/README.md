@@ -1,0 +1,1 @@
+This code generates a polynomial fitting function for the electronic energy of a given molecular system. The polynomial takes the atomic coordinates as the variables, and the form of the polynomial is such that the number of terms are minimized by taking into account that a permutation of the same type of atoms does not change the electronic energy.
